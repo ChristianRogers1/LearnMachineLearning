@@ -7,4 +7,6 @@ The goal of this repo is twofold:
 
 Full credit to [Ana Marasović](https://www.anamarasovic.com/) for the lecture slides, challenge ideas, and paper compilation. If you are reading this, I really appreciate your publicizing of all of these resources; they have been a great help to many students.
 
-See also: https://github.com/amarasovic/interpretability-literature
+See also:
+- More Literature: https://github.com/amarasovic/interpretability-literature
+- HuggingFace NLP: https://huggingface.co/learn/nlp-course/en/chapter0/1?fw=pt
